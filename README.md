@@ -30,10 +30,10 @@ LINKEDIN : https://www.linkedin.com/in/bigbowltakestime
 ##  PROJECTS
   
  <br/>
-
-
- 
-   <br/>
+MUNGTA | NodeJS, HTML, CSS, JS, MySQL, Socket.IO, AWS
+<br/>
+SAVE SHELTER DOG | Express, ReactTS, MySQL, TenserFlow, OpenAI(ChatGPT), Selenium, AWS
+<br/>
    <br/>
 
 
