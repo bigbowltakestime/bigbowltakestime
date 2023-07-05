@@ -30,7 +30,7 @@ LINKEDIN : https://www.linkedin.com/in/bigbowltakestime
 ##  PROJECTS
   
  <br/>
-<a href="https://github.com/bigbowltakestime/KDT-2-Project-C-3">MUNGTA</a>
+<a href="https://github.com/bigbowltakestime/KDT-2-Project-C-3" font-size='large'>MUNGTA</a>
 <br/>
 
 ### A Map-Based Dog Social Networking Web Service
