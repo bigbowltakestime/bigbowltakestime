@@ -34,6 +34,7 @@ LINKEDIN : https://www.linkedin.com/in/bigbowltakestime
 <br/>
 
 A Map-Based Dog Social Networking Web Service
+<br/>
 NodeJS, HTML, CSS, JS, MySQL, Socket.IO, AWS
 
   
@@ -43,6 +44,7 @@ NodeJS, HTML, CSS, JS, MySQL, Socket.IO, AWS
 <br/>
 
 A Web Service for Searching Adoptable Shelter Dogs
+<br/>
 Express, ReactTS, MySQL, TenserFlow, OpenAI(ChatGPT), Selenium, AWS
 
   
