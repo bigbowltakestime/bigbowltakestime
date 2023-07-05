@@ -32,14 +32,18 @@ LINKEDIN : https://www.linkedin.com/in/bigbowltakestime
  <br/>
 <a href="https://github.com/bigbowltakestime/KDT-2-Project-C-3">MUNGTA</a>
 <br/>
+
 - NodeJS, HTML, CSS, JS, MySQL, Socket.IO, AWS
 - A Map-Based Dog Social Networking Web Service
+  
 <br/>
 <br/>
 <a href="https://github.com/bigbowltakestime/KDT-2-Project-A-6">SAVE SHELTER DOG</a>
 <br/>
+
 - Express, ReactTS, MySQL, TenserFlow, OpenAI(ChatGPT), Selenium, AWS
 - A Web Service for Searching Adoptable Shelter Dogs
+  
 <br/>
 <br/>
 
