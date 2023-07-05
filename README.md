@@ -5,12 +5,10 @@
 
  <br/>
  <br/>
-
  
 ##  LINKS
  <br/>
 
-  
 ##  SKILLS
   
  <br/>
