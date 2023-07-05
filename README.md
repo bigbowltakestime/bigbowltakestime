@@ -9,9 +9,9 @@
 ##  LINKS
 <br/>
 MAIL : bigbowltakestime@gmail.com
-  
+<br/>
 YOUTUBE : https://www.youtube.com/@ZYNKIMLAND
-
+<br/>
 LINKEDIN : https://www.linkedin.com/in/bigbowltakestime
 
 ##  SKILLS
