@@ -50,6 +50,4 @@ Express, ReactTS, MySQL, TenserFlow, OpenAI(ChatGPT), Selenium, AWS
 <br/>
 
 
-[![Bigbowltakestime's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bigbowltakestime&theme=radical)](https://github.com/Bigbowltakestime/github-readme-stats)
-
 </div>
