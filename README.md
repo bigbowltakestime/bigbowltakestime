@@ -24,4 +24,4 @@
 ---
 
 ### 📬 Contact
-[GitHub](https://github.com/bigbowltakestime) · [Email](mailto:jinkim.kor.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/bigbowltakestime), https://dynamic-estimate-b42.notion.site/2fc2b25dc73780dd863cebfcc10ffad9
+[GitHub](https://github.com/bigbowltakestime) · [Email](mailto:jinkim.kor.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/bigbowltakestime)
