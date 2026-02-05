@@ -24,4 +24,4 @@
 ---
 
 ### 📬 Contact
-[GitHub](https://github.com/bigbowltakestime) · [Email](mailto:jinkim.kor.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/bigbowltakestime)
+[GitHub](https://github.com/bigbowltakestime) · [Email](mailto:jinkim.kor.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/bigbowltakestime) · [WebPage](https://profile.zynkimland.com)
