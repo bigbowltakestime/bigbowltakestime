@@ -16,7 +16,7 @@
   - Enterprise Sales AI Agent SaaS.
   - Designed Multi-Agent (Main-Sub) architecture & real-time event streaming using Redis/WebSocket.
   - Built high-performance RAG pipelines and low-latency voice interaction via OpenAI Realtime API.
-- **Wedding AI Agent** (2025 - Present)
+- **Wedding AI Agent** (2025 - Present) [Link](https://mocheong.zynkimland.com)
   - Mobile AI wedding invitation service with real-time Q&A.
   - Implemented Evaluator-Optimizer loops and on-device LLM (WebLLM) to optimize server costs.
 
